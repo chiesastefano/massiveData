@@ -1,2 +1,3 @@
 amazon-books-reviews.zip
-data\
+data\books_data.csv
+data\Books_rating.csv
