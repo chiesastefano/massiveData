@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="python313bigdata" />
+              <option name="sdkName" value="python312bigdata" />
             </JupyterConnectionParameters>
           </value>
         </entry>

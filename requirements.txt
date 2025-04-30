@@ -1,6 +1,5 @@
 kaggle
 scikit-learn
 numpy
-spacy
 pyspark
 nltk
